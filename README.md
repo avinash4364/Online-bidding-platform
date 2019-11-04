@@ -5,4 +5,4 @@
 # This project contains all the admins and users control over platform where admin manages the bidding activities and product information and user view products and bid on them.
 # The system displays all the products and categories inside main menu in a clean and responsive way..
 # Here sql and PHP manages all database of admin and user.
-# To run this platform on yous system install XAMPP on your PC,MAC or LINUX.
+# To run this platform on your system install XAMPP on your PC,MAC or LINUX.
